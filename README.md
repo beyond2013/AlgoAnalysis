@@ -3,7 +3,7 @@
 - Credit Hours: 3
 - Prerequisite: Data Structures and Algorithms
 
-##Course Outline:
+## Course Outline:
 
 - Advanced algorithm analysis including the introduction of formal techniques and the underlying mathematical theory.
 - NP-completeness.
