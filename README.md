@@ -31,6 +31,7 @@ Upon completion of the course, students should be able to explain the mathematic
 ## Useful Online Resources:
 
 1. [VisuAlgo](https://visualgo.net/en)
+2. [MIT Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 2. [Part 1 of Coursera course on Algorithms by Robert Sedgewick](https://www.coursera.org/learn/algorithms-part1/)
 3. [Part 2 of Coursera course on Algorithms by Robert Sedgewick](https://www.coursera.org/learn/algorithms-part2/)
 
