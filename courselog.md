@@ -15,4 +15,8 @@ Home work: create a worksheet and tabulate standard functions for various values
 Date: 14/08/2019
 No class due to Eid vacations
 
+Date: 21/08/2019
+Topics covered: Insertion Sort Algorithm, Dry Run, steps to calculate running time for each step of the algorithm.
+Home work: Exercise 1.2-2 of course book (Thomas H. Cormen)
+
 
