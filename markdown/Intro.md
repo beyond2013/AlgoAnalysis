@@ -49,21 +49,23 @@ Practical applications of algorithms are ubiquitous and include the following ex
 
 ## Data Structures
 
-- A data structure is a way to store and organize data in order to facilitate access and modifications.  
+- A data structure is **a way to store and organize data** in order **to facilitate access and modifications**.  
+
 - No single data structure works well for all purposes, so it is important to know the strengths and limitations of several of them.
 
 ## Hard Problems
 
-There are some problems for which no efficient solution is known. A subset of these problems are known as NP-complete.
+There are some problems for which no efficient solution is known. A subset of these problems are known as **NP-complete**.
 
 - It is unknown whether or not efficient algorithms exist for NP-complete problems.
 - The set of NP complete problems has the remarkable property that if an efficient algorithm exists for anyone of them, then efficient algorithms exist for all of them.
 - traveling-salesman problem is a well-known example of NP-complete problem.
 
 ## Algorithm as a technology
+
 - computers may be fast but they are not infinitely fast.
 - memory may be cheap but it is not free.
-- computing time is therefore a bounded resource, and so is space in memory.
+- **computing time is** therefore **a bounded resource**, and so is space in memory.
 - these resources should be used wisely, and algorithms that are efficient in terms of time and space help us do so.
 
 Example:
