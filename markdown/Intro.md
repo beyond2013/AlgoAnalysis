@@ -1,46 +1,54 @@
-What are algorithms?
+# What are algorithms?
 
 -	Informally an algorithm is any well-defined computational procedure that take some value, or set of values, as input and produces some value, or set of values as output.
 
-- An Algorithm is thus a sequence of computational steps that transform the input into the output.
+- An Algorithm is thus a **sequence of computational steps** that **transform** the **input** into the **output**.
 
 Example: sorting a sequence of number
 
-Input: A sequence of n numbers a1, a2, a3,...., an 
-Output: A permutation (reordering) of the input sequence such that a1 <= a2 <= a3 <=, ....., <=an
+Input: A sequence of n numbers $a_1, a_2, a_3,...., a_n$
+Output: A permutation (reordering) of the input sequence such that $a_1 <= a_2 <= a_3 <=, ....., <= a_n$
 
-Which Algorithm is best for a given application depends on
-- the number of items to be sorted
-- the extent to which the items are already somewhat sorted,
-- possible restriction on the item values
-- the architecture of the computer
-- the kidn of storage devices to be used (main memory, disks, or tapes)
+- Which Algorithm is best for a given application depends on
+  + the number of items to be sorted
+  + the extent to which the items are already somewhat sorted,
+  + possible restriction on the item values
+  + the architecture of the computer
+  + the kind of storage devices to be used (main memory, disks, or tapes)
 
-An algorithm is said to be **correct** if, for every input instance, it halts with the correct output. 
+- An algorithm is said to be **correct** if, for every input instance, it halts with the correct output. 
 
-An **incorrect** algorithm might not halt at all on some input instances, or it might halt with an incorrect answer.
+- An **incorrect** algorithm might not halt at all on some input instances, or it might halt with an incorrect answer.
+
+- **incorrect algorithms** can sometimes be useful, if their error rate can be controlled.
 
 An Algorithm can be specified 
 
-i. in English,
-ii. as a computer program, or even 
-iii. as a hardware design.
+i. in English,  
+ii. as a computer program, or even  
+iii. as a hardware design. 
 
 The only requirement is that the specification must provide a precise description of the computational procedure to be followed.
 
 
 ## What kind of problems are solved by algorithms?  
 
-Practical applications of algorithms are ubiquitous and include the following.
+Practical applications of algorithms are ubiquitous and include the following examples:
 
 1. identifying all the 100,000 genes in human DNA.
 2. finding good routes on which the data will travel on the internet
-3. public-key cryptography and digital signatures used in E-commerce
+3. public-key cryptography and digital signatures used in E-commerce 
 4. linear programming
 5. shortest path in a graph
 6. longest common subsequence
 
+- Two characteristics common to many algorithmic problems:
+
+1. they have **many candidate solutions**, majority of which **do not solve the problem**. **Finding one that does, or one that is **best**, can be challenging**.  
+2. they have practical applications.  
+
 ## Data Structures
+
 - A data structure is a way to store and organize data in order to facilitate access and modifications.  
 - No single data structure works well for all purposes, so it is important to know the strengths and limitations of several of them.
 
@@ -49,7 +57,7 @@ Practical applications of algorithms are ubiquitous and include the following.
 There are some problems for which no efficient solution is known. A subset of these problems are known as NP-complete.
 
 - It is unknown whether or not efficient algorithms exist for NP-complete problems.
-- The set of NP compelte problems has the remarkable property that if an efficient algorithm exists for anyone of them, then efficient algorithms exist for all of them.
+- The set of NP complete problems has the remarkable property that if an efficient algorithm exists for anyone of them, then efficient algorithms exist for all of them.
 - traveling-salesman problem is a well-known example of NP-complete problem.
 
 ## Algorithm as a technology
