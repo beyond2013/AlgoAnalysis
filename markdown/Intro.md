@@ -6,8 +6,8 @@
 
 Example: sorting a sequence of number
 
-Input: A sequence of n numbers $a_1, a_2, a_3,...., a_n$
-Output: A permutation (reordering) of the input sequence such that $a_1 <= a_2 <= a_3 <=, ....., <= a_n$
+Input: A sequence of n numbers ![formula](https://render.githubusercontent.com/render/math?math=a_1, a_2, a_3,...., a_n)
+Output: A permutation (reordering) of the input sequence such that ![formula](https://render.githubusercontent.com/render/math?math=a_1 <= a_2 <= a_3 <=, ....., <= a_n)
 
 - Which Algorithm is best for a given application depends on
   + the number of items to be sorted
