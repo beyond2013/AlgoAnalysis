@@ -81,6 +81,7 @@ Example:
 ![Time Taken by Computer A](../figs/Intro_Eqn_1.png)
 
 - While computer B takes: 
+
 ![Time Taken by Computer A](../figs/Intro_Eqn_2.png)
 
 - By using an algorithm whose running time grows more slowly, even with a poor compiler, computer B runs 20 times faster than computer A.
