@@ -59,7 +59,16 @@ There are some problems for which no efficient solution is known. A subset of th
 
 - It is unknown whether or not efficient algorithms exist for NP-complete problems.
 - The set of NP complete problems has the remarkable property that if an efficient algorithm exists for anyone of them, then efficient algorithms exist for all of them.
+- It is important to know NP-complete problems because some of them arise surprisingly often in real applications.
 - traveling-salesman problem is a well-known example of NP-complete problem.
+
+## Parallelism
+
+- For many years increasing processor clock speed at a steady rate has been used to improve on time consumed for computation.
+- ever-increasing clock speeds is not possible, due to the risk of melting chips.
+- In order to perform more computations per seconds, chips are being designed to contain several processing cores.
+- To get best out of multicore computers, designer of algorithms should keep parallelism in mind.
+- class of such algorithms are known as multithreaded algorithms.
 
 ## Algorithm as a technology
 
@@ -89,3 +98,5 @@ Example:
 - The advantage of merge sort is even more pronounced when we sort ten million numbers where insertion sort takes approximately 2.3 days, merge sort takes under 20 minutes. In general as the problem size increases, so does the relative advantage of merge sort.
 
 - This example shows that algorithm like computer hardware are a technology. 
+
+
