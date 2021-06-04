@@ -6,10 +6,10 @@
 
 Example: sorting a sequence of number
 
-Input: A sequence of n numbers ![formula](https://render.githubusercontent.com/render/math?math=a_1, a_2, a_3,...., a_n)
-Output: A permutation (reordering) of the input sequence such that ![formula](https://render.githubusercontent.com/render/math?math=a_1 <= a_2 <= a_3 <=, ....., <= a_n)
+Input: A sequence of n numbers a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>,...., a<sub>n</sub>  
+Output: A permutation (reordering) of the input sequence such that a<sub>1</sub> <= a<sub>2</sub> <= a<sub>3</sub> <= .... <= a<sub>n</sub>  
 
-- Which Algorithm is best for a given application depends on
+Which Algorithm is best for a given application depends on
   + the number of items to be sorted
   + the extent to which the items are already somewhat sorted,
   + possible restriction on the item values
@@ -77,10 +77,11 @@ Example:
 - A skilled programmer codes insertion sort in machine language for computer A.
 - Merge sort is programmed by an average programmer in high level language with an inefficient compiler.
 - To sort one million numbers computer A takes:
- $ \frac{2 * (10^6)^2 instructions}{10^9 instructions per seconds}= 2000 seconds $
+
+![Time Taken by Computer A](../figs/Intro_Eqn_1.gif)
 
 - While computer B takes: 
-$ \frac{50 * 10^6 * log(10^6) instructions}{10^7 instructions per seconds} \approx  100  seconds $
+![Time Taken by Computer A](../figs/Intro_Eqn_1.gif)
 
 - By using an algorithm whose running time grows more slowly, even with a poor compiler, computer B runs 20 times faster than computer A.
 
