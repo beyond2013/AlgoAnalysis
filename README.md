@@ -13,7 +13,7 @@
 - Topics include asymptotic analysis of upper and average complexity bounds using big-O, little-o, and theta notation.
 - Fundamental algorithmic strategies (brute-force, greedy, divide-and-conquer, backtracking, branch-and-bound, pattern matching, and numerical approximations).
 - Standard graph and tree algorithms.
-- Standard complexity classes, time and space tradeoffs in algorithms
+- Standard complexity classes, time and space trade offs in algorithms
 - Using recurrence relations to analyze recursive algorithms
 - Non-computable functions 
 - The halting problem, and the implications of non-computability.
