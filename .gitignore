@@ -1,6 +1,6 @@
 /*
-!markdown/
-!pastpapers/
+!markdown/*.md
+!pastpapers/*
 !.gitignore
 !figs/
 !src/
