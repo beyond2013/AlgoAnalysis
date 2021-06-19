@@ -1,4 +1,8 @@
-*.pdf
-*.ods
-*.xlsx
-*.odt
+/*
+!markdown/
+!pastpapers/
+!.gitignore
+!figs/
+!src/
+!README.md
+
