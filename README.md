@@ -36,5 +36,6 @@ Upon completion of the course, students should be able to explain the mathematic
 4. [Part 2 of Coursera course on Algorithms by Robert Sedgewick](https://www.coursera.org/learn/algorithms-part2/)  
 5. Book [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 <!-- 6. [Solutions to Introduction to Algorithms](https://github.com/gzc/CLRS) -->
+6. [How fast do algorithms improve](https://ieeexplore.ieee.org/document/9540991)
 
 
